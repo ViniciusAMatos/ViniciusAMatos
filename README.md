@@ -2,7 +2,7 @@
 
 ### Um pouco sobre mim:
 - 🎓 Estudante de Engenheria de Computação
-- 🚀 Estudante de Desenvolvimento Web, em espcial front-end
+- 🚀 Estudante de Desenvolvimento Web, em especial front-end
 - 🤓 Apaixonado por tecnologia, inovações e séries
 
 ### 📫 Entre em contato comigo:
