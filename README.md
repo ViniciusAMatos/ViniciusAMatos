@@ -1,8 +1,8 @@
 ### Olá, seja bem-vindo(a) 👋
 
 ### Um pouco sobre mim:
-- 🎓 Estudante de Engenheria de Computação
-- 🚀 Aspirante a Desenvolvedor Full-Stack
+- 🎓 Estudante de Engenharia de Computação
+- 🚀 Desenvolvedor Full-Stack
 - 🤓 Apaixonado por tecnologia, inovações e séries
 
 
